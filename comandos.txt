@@ -1,0 +1,2 @@
+sudo iptables -t nat -A POSTROUTING -o wlan1 -j MASQUERADE
+sudo ifconfig eth0 192.168.10.51/24

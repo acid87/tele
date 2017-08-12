@@ -1,0 +1,16 @@
+# Command logfile created by Lynx 2.8.9dev.1 (12 Mar 2014)
+# Arg0 = lynx
+# Arg1 = www.google.com
+# Arg2 = -cmd_log=comm
+key y
+key <tab>
+key ^J
+key a
+key @
+key a
+key .
+key c
+key o
+key m
+key ^J
+key ^C
